@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+# monthlyenergyconsumption 
 
 A simple machine learning project using Linear Regression.
 
@@ -13,9 +13,8 @@ A simple machine learning project using Linear Regression.
 ## Model
 - Linear Regression (scikit-learn)
 
-## Results
-R2 Score: 0.87
 
 ## How to run
 pip install -r requirements.txt
 jupyter notebook
+
